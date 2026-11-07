@@ -9,17 +9,17 @@ The following screenshots showcase the user interface and main functionalities o
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/TracklyLogin.png" width="400" alt="Login Page"><br>
+      <img src="screenshots/TracklyLogin.png" width="200" alt="Login Page"><br>
       <b>Login Page</b>
     </td>
     <td align="center">
-      <img src="screenshots/TracklyHome.png" width="400" alt="Home Page"><br>
+      <img src="screenshots/TracklyHome.png" width="200" alt="Home Page"><br>
       <b>Home Page</b>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="screenshots/TracklyTransactions.png" width="400" alt="Transactions Page"><br>
+      <img src="screenshots/TracklyTransactions.png" width="200" alt="Transactions Page"><br>
       <b>Transaction Page</b>
     </td>
 </table>
