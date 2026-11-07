@@ -2,16 +2,6 @@
 
 A personal finance tracking Android application developed using **Kotlin and Android Studio**. The application helps users keep track of their income and expenses, organize financial transactions, and monitor their personal financial activities through a simple and user-friendly interface.
 
-## ✨ Features
-
-- 💵 **Income Tracking** – Record and manage income.
-- 💸 **Expense Tracking** – Keep track of daily expenses.
-- 📝 **Transaction Management** – Maintain financial transaction records.
-- 📊 **Financial Overview** – Review personal financial activities.
-- 📱 **User-Friendly Interface** – Simple and intuitive mobile application design.
-
-*Note: Keep only the features that are implemented in your application.*
-
 ## 📸 Application Screenshots
 
 The following screenshots showcase the user interface and main functionalities of the Finance Tracker application.
@@ -33,6 +23,17 @@ The following screenshots showcase the user interface and main functionalities o
       <b>Transaction Page</b>
     </td>
 </table>
+
+
+## ✨ Features
+
+- 💵 **Income Tracking** – Record and manage income.
+- 💸 **Expense Tracking** – Keep track of daily expenses.
+- 📝 **Transaction Management** – Maintain financial transaction records.
+- 📊 **Financial Overview** – Review personal financial activities.
+- 📱 **User-Friendly Interface** – Simple and intuitive mobile application design.
+
+*Note: Keep only the features that are implemented in your application.*
 
 ## 🛠️ Technologies Used
 
